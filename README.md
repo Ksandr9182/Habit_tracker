@@ -30,4 +30,8 @@
 * **Фронтенд:** React
     * Библиотека `axios` для выполнения HTTP-запросов к бэкенду.
 
+## Внешний вид приложения
 ![скриншоты в папке screenshots](screenshots/screenshots_02.png)
+
+### Телеграм-бот
+![скриншоты в папке screenshots](screenshots/screenshots_03.png)
