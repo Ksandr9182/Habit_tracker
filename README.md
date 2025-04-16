@@ -30,5 +30,4 @@
 * **Фронтенд:** React
     * Библиотека `axios` для выполнения HTTP-запросов к бэкенду.
 
-
-<img src="screenshot/screenshot_02.png" alt="Альтернативный текст"">
+![скриншоты в папке screenshots](screenshots/screenshots_02.png)
