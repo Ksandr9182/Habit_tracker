@@ -1,0 +1,35 @@
+.frontend/00_Ярлык
+
+.idea/
+
+# Зависимости Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Сборка React
+build/
+dist/
+
+# Временные файлы
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Секреты и конфиги
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# VS Code
+.vscode/
